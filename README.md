@@ -3,6 +3,7 @@ This project was created as a Redux-Saga example. It uses webpack for building a
 
 ##Getting started
 git clone https://github.com/JellyKid/ReduxSagaSimon
+
 npm i -dS
 
 ###Running
